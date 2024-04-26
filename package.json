@@ -1,9 +1,10 @@
 {
-  "name": "orangehrm",
+  "name": "advantageonlineshopping",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "command-to-start-your-server", // replace with your actual command
+    "test": "cypress run"
   },
   "keywords": [],
   "author": "",
