@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "command-to-start-your-server", // replace with your actual command
+    "start": "node server.js",
     "test": "cypress run"
   },
   "keywords": [],
